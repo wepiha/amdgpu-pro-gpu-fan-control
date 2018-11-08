@@ -7,6 +7,7 @@ Bash shell script to control fan speed of GPU using AMDGPU-PRO driver
 > $USER ALL=(ALL) NOPASSWD:ALL
 
 **Script default configuration**
+
 | Temp | Fan |
 | --- | --- |
 | < 40degC | Off |
